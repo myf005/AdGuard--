@@ -1,0 +1,65 @@
+
+   *番茄听书误杀放行
+        DNS:
+        @@||v26-novelapp.fqnovelvod.com^
+        自定义规则：
+        @@||v26-novelapp.fqnovelvod.com^$important,app=com.dragon.read
+
+
+*自定义过滤器
+EasyPrivacy：
+https://easylist-downloads.adblockplus.org/easyprivacy.txt
+
+秋风：
+https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt
+
+晴雅：
+http://rssv.cn/adguard/api.php?type=black
+https://raw.gitcode.com/rssv/qy-Ads-Rule/raw/main/black.txt
+http://rssv.cn/adguard/
+混合规则：
+https://lingeringsound.github.io/adblock_auto/Rules/adblock_auto.txt
+
+GOODBYEADS：
+https://ghp.ci/raw.githubusercontent.com/8680/GOODBYEADS/master/rules.txt
+白名单：
+https://ghp.ci/raw.githubusercontent.com/Lynricsy/HyperADRules/master/allow.txt
+
+ad群推：
+https://anti-ad.net/easylist.txt
+
+去广告规则，酷安反馈反馈：
+https://ghp.ci/raw.githubusercontent.com/qq5460168/666/master/rules.txt
+
+AdRules AdBlock List Plus：
+https://adrules.yuwell.us.kg/adblock_plus.txt
+
+anti软件内置：
+https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt
+
+all.txt:
+https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/all.txt
+
+cookie:
+https://easylist-downloads.adblockplus.org/easylist-cookie.txt
+
+ADBlock 过滤器：
+https://ghp.ci/https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/AdGuard_Base_filter.txt
+
+
+
+*DNS过滤器
+ADBlock DNS：
+https://raw.nuaa.cf/217heidai/adblockfilters/main/rules/adblockdns.txt
+
+AdRules DNS List：
+https://adrules.yuwell.us.kg/dns.txt
+
+GOODBYEADS：
+https://mirror.ghproxy.com/raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/dns.txt
+
+
+晴雅：（噶）
+https://raw.gitcode.com/rssv/qy-Ads-Rule/raw/main/black.txt
+混合规则：
+https://lingeringsound.github.io/adblock_auto/Rules/adblock_auto.txt
