@@ -22,3 +22,6 @@
 |AdRules DNS List|[订阅](https://adrules.yuwell.us.kg/dns.txt)|
 |GOODBYEADS|[订阅](https://mirror.ghproxy.com/raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/dns.txt)|
 |混合规则|[订阅](https://lingeringsound.github.io/adblock_auto/Rules/adblock_auto.txt)|
+|oisd big|[订阅](https://oisd.nl)|
+# 说明
+以上规则均为自用，可能会有冲突，但只要导入白名单一般就没有什么大问题。
