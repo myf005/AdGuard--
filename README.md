@@ -6,7 +6,7 @@
 |dns-blocklists|[地址](https://github.com/hagezi/dns-blocklists)|
 |adblockfilters|[地址](https://github.com/217heidai/adblockfilters)|
 |DD-AD|[地址](https://github.com/afwfv/DD-AD)|
-|||
+|HyperADRules|[地址](https://github.com/Lynricsy/HyperADRules)|
 ## 用户规则
 |规则|链接|
 |:-:|:-:|
