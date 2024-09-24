@@ -1,7 +1,7 @@
 # AdGuard自用规则搭建
 自用规则云端备份
 ## github相关项目
-[dns-blocklists](https://github.com/hagezi/dns-blocklists)
+dns-blocklists[前往](https://github.com/hagezi/dns-blocklists)
 ## 用户规则
 |规则|链接|
 |:-:|:-:|
