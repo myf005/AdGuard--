@@ -14,6 +14,7 @@
 |AdRules AdBlock List Plus（梯）|[订阅](https://adrules.yuwell.us.kg/adblock_plus.txt)|
 |cookie|[订阅](https://easylist-downloads.adblockplus.org/easylist-cookie.txt)|
 |ADBlock 过滤器|[订阅](https://ghp.ci/https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/AdGuard_Base_filter.txt)|
+|oisd big|[订阅](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/pro.plus.txt)|
 # DNS过滤规则
 |规则|订阅|
 |:-|:-|
