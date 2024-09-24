@@ -4,6 +4,7 @@
 |项目|地址|
 |:-:|:-:|
 |dns-blocklists|[地址](https://github.com/hagezi/dns-blocklists)|
+|adblockfilters|[地址](https://github.com/217heidai/adblockfilters)|
 ## 用户规则
 |规则|链接|
 |:-:|:-:|
