@@ -2,7 +2,7 @@
 自用规则云端备份
 ## 用户规则
 |规则|链接|
-|:-|:-|
+|:-:|:-:|
 |EasyPrivacy|[订阅](https://easylist-downloads.adblockplus.org/easyprivacy.txt)|
 |秋风|[订阅](https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt)|
 |晴雅|[订阅1](http://rssv.cn/adguard/)  [订阅2](https://raw.gitcode.com/rssv/qy-Ads-Rule/raw/main/black.txt)  [订阅3](http://rssv.cn/adguard/api.php?type=black)|
@@ -17,7 +17,7 @@
 |oisd big|[订阅](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/pro.plus.txt)|
 # DNS过滤规则
 |规则|订阅|
-|:-|:-|
+|:-:|:-:|
 |ADBlock DNS|[订阅](https://raw.nuaa.cf/217heidai/adblockfilters/main/rules/adblockdns.txt)|
 |AdRules DNS List|[订阅](https://adrules.yuwell.us.kg/dns.txt)|
 |GOODBYEADS|[订阅](https://mirror.ghproxy.com/raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/dns.txt)|
