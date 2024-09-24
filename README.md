@@ -5,7 +5,7 @@
 |:-:|:-:|
 |EasyPrivacy|[订阅](https://easylist-downloads.adblockplus.org/easyprivacy.txt)|
 |秋风|[订阅](https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt)|
-|晴雅|[订阅1](http://rssv.cn/adguard/)、  [订阅2](https://raw.gitcode.com/rssv/qy-Ads-Rule/raw/main/black.txt) 、 [订阅3](http://rssv.cn/adguard/api.php?type=black)|
+|晴雅|[订阅1](http://rssv.cn/adguard/)<br> [订阅2](https://raw.gitcode.com/rssv/qy-Ads-Rule/raw/main/black.txt)<br> [订阅3](http://rssv.cn/adguard/api.php?type=black)|
 |混合规则|[订阅](https://lingeringsound.github.io/adblock_auto/Rules/adblock_auto.txt)|
 |GOODBYEADS|[订阅](https://ghp.ci/raw.githubusercontent.com/8680/GOODBYEADS/master/rules.txt)|
 |白名单|[订阅](https://ghp.ci/raw.githubusercontent.com/Lynricsy/HyperADRules/master/allow.txt)|
