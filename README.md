@@ -7,6 +7,7 @@
 |adblockfilters|[地址](https://github.com/217heidai/adblockfilters)|
 |DD-AD|[地址](https://github.com/afwfv/DD-AD)|
 |HyperADRules|[地址](https://github.com/Lynricsy/HyperADRules)|
+|anti-AD|[地址](https://github.com/privacy-protection-tools/anti-AD)|
 ## 用户规则
 |规则|链接|
 |:-:|:-:|
