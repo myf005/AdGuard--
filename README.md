@@ -25,6 +25,8 @@
 |cookie|[订阅](https://easylist-downloads.adblockplus.org/easylist-cookie.txt)|
 |ADBlock 过滤器|[订阅](https://ghp.ci/https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/AdGuard_Base_filter.txt)|
 |oisd big|[订阅](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/pro.plus.txt)|
+|tt拒绝列表|[订阅](https://raw.gitmirror.com/TTDNS/Cat/main/TT%E6%8B%92%E7%BB%9D%E5%88%97%E8%A1%A8%E6%B8%85%E5%8D%95%20(%E6%9B%B4%E6%96%B0%E4%B8%AD).txt)|
+
 # DNS过滤规则
 |规则|订阅|
 |:-:|:-:|
@@ -33,5 +35,6 @@
 |GOODBYEADS|[订阅](https://mirror.ghproxy.com/raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/dns.txt)|
 |混合规则|[订阅](https://lingeringsound.github.io/adblock_auto/Rules/adblock_auto.txt)|
 |oisd big|[订阅](https://oisd.nl)|
+|tt拒绝列表|[订阅](https://raw.gitmirror.com/TTDNS/Cat/main/DNS.TXT)|
 # 说明
 以上规则均为自用，可能会有冲突，但只要导入白名单一般就没有什么大问题。
