@@ -20,7 +20,8 @@
 |GOODBYEADS|[订阅](https://ghp.ci/raw.githubusercontent.com/8680/GOODBYEADS/master/rules.txt)|
 |白名单|[订阅](https://ghp.ci/raw.githubusercontent.com/Lynricsy/HyperADRules/master/allow.txt)|
 |ad群推|[订阅](https://anti-ad.net/easylist.txt)|
-|去广告规则，酷安反馈反馈|[订阅](https://ghp.ci/raw.githubusercontent.com/qq5460168/666/master/rules.txt)|
+|去广告规则，酷安反馈反馈|[订阅1](https://ghp.ci/raw.githubusercontent.com/qq5460168/666/master/rules.txt)<br>
+[订阅2](https://ghp.ci/raw.githubusercontent.com/qq5460168/666/master/rules.txt)|
 |AdRules AdBlock List Plus（梯）|[订阅](https://adrules.yuwell.us.kg/adblock_plus.txt)|
 |cookie|[订阅](https://easylist-downloads.adblockplus.org/easylist-cookie.txt)|
 |ADBlock 过滤器|[订阅](https://ghp.ci/https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/AdGuard_Base_filter.txt)|
