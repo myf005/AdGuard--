@@ -9,6 +9,7 @@
 |HyperADRules|[地址](https://github.com/Lynricsy/HyperADRules)|
 |anti-AD|[地址](https://github.com/privacy-protection-tools/anti-AD)|
 |秋风|[地址](https://github.com/TG-Twilight/AWAvenue-Ads-Rule)|
+|AdGuard规则（息流）|[地址](https://flowus.cn/share/d26a2f13-f49b-4480-b6b7-57ff20baa9d7)|
 ## 用户规则
 |规则|链接|
 |:-:|:-:|
