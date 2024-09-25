@@ -8,6 +8,7 @@
 |DD-AD|[地址](https://github.com/afwfv/DD-AD)|
 |HyperADRules|[地址](https://github.com/Lynricsy/HyperADRules)|
 |anti-AD|[地址](https://github.com/privacy-protection-tools/anti-AD)|
+|秋风|[地址]（https://github.com/TG-Twilight/AWAvenue-Ads-Rule）|
 ## 用户规则
 |规则|链接|
 |:-:|:-:|
