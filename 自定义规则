@@ -1,0 +1,189 @@
+#动漫共和国
+@@||videocloud.cn-hangzhou.log.aliyuncs.com^$important
+@@||js-gamezone.video.yximgs.com^$client='10.42.1.0'
+@@||js2.a.yximgs.com^$client='10.42.1.0'
+#动漫共和国
+@@||ulogs.umengcloud.com^
+@@||h-adashx.ut.taobao.com^
+@@||amdc.m.taobao.com^
+@@||api.sec.miui.com^
+@@||tracking.miui.com^
+@@||om.tracking.miui.com^
+@@||apd-pcdnwxlogin.teg.tencent-cloud.net^
+@@||gcaptcha4.geetest.com^
+@@||static.geetest.com^
+@@||zvfb.hzhcbkj.cn^$important
+@@||update.googleapis.com^$important
+@@||js-gamezone.video.yximgs.com^$important
+@@||play.jx.hzhcbkj.cn^$important
+@@||js2.a.yximgs.com^$important
+@@||msg.cmpassport.com^$important
+@@||s.peplle.cn^$important
+! 微信内置广告域名
+||ad.weixin.qq.com^
+||ad.tencent.com^
+||ad.qun.qq.com^
+||ad.qzone.qq.com^
+! 微信朋友圈广告
+||ad.gt.qq.com^
+||adcdn.tencent.com^
+! 微信公众号广告
+||ad.mobile.qq.com^
+||ad.qq.com^
+||ad.qun.qq.com^
+! 微信小程序广告
+||ad.wx.qq.com^
+||ad.qlogo.cn^
+||ad.qpic.cn^
+! 微信视频广告
+||ad.video.qq.com^
+||ad.v.qq.com^
+! 微信推广链接
+||adclick.qq.com^
+||adclick.gtimg.cn^
+! 拦截穿山甲、快手等广告 SDK 域名[citation:9]
+||log-api.pangolin-sdk-toutiao-b.com^
+||p1-lm.adkwai.com^
+||xlog.jd.com^
+||dsp-x.jd.com^
+||open.e.kuaishou.com^
+||ad.tencent.com^
+||ad.weixin.qq.com^
+||adcdn.tencent.com^
+! 通用广告域名补充[citation:1][citation:7]
+||ad.toutiao.com^
+||ad.bytedance.com^
+||ads.douyin.com^
+||adx.toutiao.com^
+||tracking.mob.com^
+!动漫共和国（测试）
+@@||content-autofill.googleapis.com^$important
+@@||eo.jx.hzhcbkj.cn^$important
+@@||hwmov.a.yximgs.com^$important
+! ========== 微信内置广告域名 ==========
+! 小程序广告主域名
+||ad.weixin.qq.com^
+||ad.wx.qq.com^
+||ad.gdt.qq.com^      
+! 腾讯广点通（优量汇广告）
+||ad.qun.qq.com^
+||adcdn.tencent.com^
+||adcdn.qq.com^
+||adservice.qq.com^
+||adservice.weixin.qq.com^
+! 广告资源加载域名
+||ad.qpic.cn^         
+! 小程序广告图片
+||ad.qlogo.cn^        
+! 小程序广告图标
+||mmbiz.qpic.cn^$domain=weixin.qq.com
+! ========== 第三方广告 SDK 域名 ==========
+! 字节跳动（穿山甲广告）
+||pangolin-sdk-toutiao.com^
+||pangolin-sdk-toutiao-b.com^
+||log-api.pangolin-sdk-toutiao.com^
+||ad.toutiao.com^
+! 快手广告
+||ad.kuaishou.com^
+||open.e.kuaishou.com^
+||adxlog.yse.yodocdn.com^
+||ads.douyin.com^    
+! 抖音广告
+! 京东广告
+||ad.360buyimg.com^
+||dsp-x.jd.com^
+||jdc.jd.com^
+||adclick.jd.com^
+! 通用广告补充
+||tracking.mob.com^   
+! MobTech广告
+||ad.xiaomi.com^      
+! 小米广告
+||api-access.pangolin-sdk-toutiao.com^      
+! 放行微信图片资源
+@@||wx.qlogo.cn^
+@@||mmbiz.qpic.cn^
+#小米社区
+! 小米社区主域名
+@@||mi.com^
+@@||xiaomi.com^
+! 静态资源（图片、CSS、JS）
+@@||static.mi.com^
+@@||img.mi.com^
+@@||cdn.cnbj1.fds.api.mi-img.com^
+@@||cdn.cnbj0.fds.api.mi-img.com^
+! API 接口
+@@||api.mi.com^
+@@||api.vip.mi.com^
+@@||api.account.xiaomi.com^
+! 用户头像和图片资源
+@@||avatar.mi.com^
+@@||img.account.xiaomi.com^
+! 小米账号相关
+@@||account.xiaomi.com^
+@@||login.mi.com^
+! 其他必要域名
+@@||sso.mi.com^
+@@||passport.mi.com^
+@@||store.mi.com^
+@@||app.mi.com^
+@@||dev.mi.com^
+#番茄小说
+||p26.douyinpic.com^$important
+||p3-webcast-sign.douyinpic.com^$important
+||pull-flv-l13.douyincdn.com^$important
+||pull-f5-xg.flive.ixigua.com^$important
+#游戏
+@@||image.smoba.qq.com^$important
+@@||down-update.qq.com^$important
+@@||hc2.tdm.qq.com^$important
+@@||imap.qq.com^$important
+@@||hc.tdm.qq.com^$important
+#金铲铲
+@@||cdn.jkmobile.qq.com
+@@||receiver.tdm.qq.com
+@@||cloudctrl.gcloud.qq.com
+@@||down.anticheatexpert.com
+@@||cloud.tgpa.qq.com
+@@||android.perfsight.qq.com
+@@||snowflake.qq.com
+@@||hc.tdm.qq.com
+@@||android.crashsight.qq.com
+@@||formal-bcs.jkmobile.qq.com^$important
+@@||hw.flv.wxqcloud.qq.com^$important
+@@||voipfinderliveplaythirdtest.wxqcloud.qq.com^$important
+#测试
+||pull-f5-xg.ixigua.com^$important
+||pull-l3-xg.ixigua.com^$important
+||is-lq.snssdk.com^$important
+||open.e.189.cn^$important
+||p3-reading-sign.fqnovelpic.com^$important
+||p9-reading-sign.fqnovelpic.com^$important
+||lf6-reading.fqnovelpic.com^$important
+# 番茄小说广告域名示例  
+0.0.0.0 pangolin-sdk-toutiao.com  
+0.0.0.0 frontier-toutiao.snssdk.com  
+0.0.0.0 ads5-normal-lf.zijieapi.com  
+0.0.0.0 pglstatp-toutiao.com  
+0.0.0.0 zijieapi.com
+#番茄免费小说
+!域名拦截
+||fanqienovel.com^
+||ad.fanqienovel.com^
+||track.fanqienovel.com^
+||ads.fqnovel.com^
+||adservice.fanqie.com^
+||adcdn.fanqie.com^
+||api.fanqie.com/ad/
+||statistics.fanqie.com^
+||advertise.fanqie.com^
+||sdk.fanqie.com^
+!正则匹配拦截
+/.*\.ad\.fanqie.*/
+/.*\.ads\.fanqie.*/
+/^https?:\/\/([a-z0-9]+\.)?ad(s|server)\.fanqie\.com/
+!HOSTS规则拦截
+0.0.0.0 ad.fanqienovel.com
+0.0.0.0 track.fanqie.com
+0.0.0.0 sdk.fanqie.com
+#
