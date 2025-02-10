@@ -112,23 +112,23 @@
 
 @@||mi.com^$important        
 # 放行小米主域名[[5,7]]
+
 @@||xiaomi.com^$important     
-
 # 放行小米国际站<a href="reference://6" class="reference small-font offset-ignore" style="user-select: none;"></a>
+
 @@||miui.com^$important       
-
 # 放行MIUI相关服务<a href="reference://6" class="reference small-font offset-ignore" style="user-select: none;"></a>
+
 @@||xiaomi.cn^$important      
-
 # 放行中国区服务<a href="reference://6" class="reference small-font offset-ignore" style="user-select: none;"></a>
+
 @@||mi-img.com^$important     
-
 # 放行小米图片资源<a href="reference://6" class="reference small-font offset-ignore" style="user-select: none;"></a>
+
 @@||miwifi.com^$important    
-
 # 放行小米路由器服务<a href="reference://8" class="reference small-font offset-ignore" style="user-select: none;"></a>
-@@||api.browser.miui.com^$important  
 
+@@||api.browser.miui.com^$important  
 # 浏览器核心API<a href="reference://6" class="reference small-font offset-ignore" style="user-select: none;"></a>
 copy
 
