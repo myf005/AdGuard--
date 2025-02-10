@@ -139,7 +139,9 @@
 @@||hc2.tdm.qq.com^$important
 @@||imap.qq.com^$important
 @@||hc.tdm.qq.com^$important
-#金铲铲
+
+###金铲铲
+
 @@||cdn.jkmobile.qq.com
 @@||receiver.tdm.qq.com
 @@||cloudctrl.gcloud.qq.com
@@ -152,6 +154,35 @@
 @@||formal-bcs.jkmobile.qq.com^$important
 @@||hw.flv.wxqcloud.qq.com^$important
 @@||voipfinderliveplaythirdtest.wxqcloud.qq.com^$important
+
+# 游戏主域名及登录服务器（金铲铲）
+@@||jcc.qq.com^       
+ ! 游戏官网及主服务器[citation:4][citation:9]
+@@||game.qq.com^      
+ ! 腾讯游戏通用服务器[citation:8][citation:10]
+@@||appsupport.qq.com^
+ ! 游戏支持服务（登录、更新验证）[citation:8]
+
+# 资源加载域名
+@@||qpic.cn^           
+! 游戏内图片、图标资源[citation:4][citation:10]
+@@||qlogo.cn^         
+ ! 用户头像、界面元素资源[citation:4]
+@@||cdn.qq.com^       
+ ! 腾讯 CDN 资源（游戏更新包、配置文件）[citation:8]
+
+# 账号系统相关
+@@||openmobile.qq.com^ 
+! 腾讯账号登录验证[citation:8]
+@@||ptlogin2.qq.com^   
+! QQ/微信登录接口[citation:8]
+
+# 游戏内功能域名
+@@||report.qq.com^     
+! 游戏数据上报（影响战绩同步）[citation:8]
+@@||tpns.qq.com^       
+! 腾讯推送服务（游戏通知、活动提醒）[citation:8]
+
 #测试
 ||pull-f5-xg.ixigua.com^$important
 ||pull-l3-xg.ixigua.com^$important
@@ -160,12 +191,30 @@
 ||p3-reading-sign.fqnovelpic.com^$important
 ||p9-reading-sign.fqnovelpic.com^$important
 ||lf6-reading.fqnovelpic.com^$important
+
+@@||download.qq.com^  
+! 游戏更新包下载域名[citation:8]
+   @@||dlied.qq.com^     
+! 腾讯游戏通用下载服务器[citation:8]
+@@||act.qq.com^       
+! 腾讯游戏活动页面[citation:8]
+   @@||ossweb-img.qq.com^
+! 活动图片资源[citation:8]
+@@||qun.qq.com^       
+! 群组功能相关[citation:8]
+   @@||qzone.qq.com^     
+! 动态分享功能[citation:8]
+
+###金铲铲
+
+
 # 番茄小说广告域名示例  
 0.0.0.0 pangolin-sdk-toutiao.com  
 0.0.0.0 frontier-toutiao.snssdk.com  
 0.0.0.0 ads5-normal-lf.zijieapi.com  
 0.0.0.0 pglstatp-toutiao.com  
 0.0.0.0 zijieapi.com
+
 #番茄免费小说
 !域名拦截
 ||fanqienovel.com^
