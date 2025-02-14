@@ -275,7 +275,8 @@ douyin.com##+js(remove-attr, style, div[class*="image-container"])
 @@||douyin.com##img[src*="douyincdn.com"]
 
 ! ===== 抖音核心图片域名 =====
-@@||p3-pc.douyincdn.com^     ! 评论区图片 CDN
+@@||p3-pc.douyincdn.com^     
+! 评论区图片 CDN
 @@||p6-pc.douyincdn.com^
 @@||p9-pc.douyincdn.com^
 @@||p26.douyincdn.com^
@@ -284,8 +285,10 @@ douyin.com##+js(remove-attr, style, div[class*="image-container"])
 @@||p9.douyincdn.com^
 
 ! ===== 通用图片资源域名 =====
-@@||s3m.bytedcdn.com^       ! 抖音静态资源
-@@||p1-tt.byteimg.com^      ! 动态加载图片
+@@||s3m.bytedcdn.com^       
+! 抖音静态资源
+@@||p1-tt.byteimg.com^      
+! 动态加载图片
 @@||p3-tt.byteimg.com^
 @@||p6-tt.byteimg.com^
 @@||p9-tt.byteimg.com^
