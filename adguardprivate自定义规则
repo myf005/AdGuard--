@@ -19,28 +19,7 @@
 @@||js2.a.yximgs.com^$important
 @@||msg.cmpassport.com^$important
 @@||s.peplle.cn^$important
-! 微信内置广告域名
-||ad.weixin.qq.com^
-||ad.tencent.com^
-||ad.qun.qq.com^
-||ad.qzone.qq.com^
-! 微信朋友圈广告
-||ad.gt.qq.com^
-||adcdn.tencent.com^
-! 微信公众号广告
-||ad.mobile.qq.com^
-||ad.qq.com^
-||ad.qun.qq.com^
-! 微信小程序广告
-||ad.wx.qq.com^
-||ad.qlogo.cn^
-||ad.qpic.cn^
-! 微信视频广告
-||ad.video.qq.com^
-||ad.v.qq.com^
-! 微信推广链接
-||adclick.qq.com^
-||adclick.gtimg.cn^
+
 ! 拦截穿山甲、快手等广告 SDK 域名[citation:9]
 ||log-api.pangolin-sdk-toutiao-b.com^
 ||p1-lm.adkwai.com^
@@ -64,19 +43,45 @@
 ! 小程序广告主域名
 ||ad.weixin.qq.com^
 ||ad.wx.qq.com^
-||ad.gdt.qq.com^      
-! 腾讯广点通（优量汇广告）
-||ad.qun.qq.com^
+||ad.gdt.qq.com^
+||ad.qlogo.cn^
+||ad.qpic.cn^
+
+! 小程序广告图标
+||mmbiz.qpic.cn^$domain=weixin.qq.com
+
+! 微信朋友圈广告
+||ad.gt.qq.com^
 ||adcdn.tencent.com^
+
+! 微信公众号广告
+||ad.mobile.qq.com^
+||ad.qq.com^
+||ad.qun.qq.com^
+
+! 微信视频广告
+||ad.video.qq.com^
+||ad.v.qq.com^
+
+! 微信推广链接
+||adclick.qq.com^
+||adclick.gtimg.cn^
+
+! 微信内置广告域名
+||ad.weixin.qq.com^
+||ad.tencent.com^
+||ad.qzone.qq.com^
+      
+! 腾讯广点通（优量汇广告）
 ||adcdn.qq.com^
 ||adservice.qq.com^
 ||adservice.weixin.qq.com^
-! 广告资源加载域名
-||ad.qpic.cn^         
-! 小程序广告图片
-||ad.qlogo.cn^        
-! 小程序广告图标
-||mmbiz.qpic.cn^$domain=weixin.qq.com
+
+!微信网页元素放行
+@@||res.wx.qq.com
+
+
+        
 ! ========== 第三方广告 SDK 域名 ==========
 ! 字节跳动（穿山甲广告）
 ||pangolin-sdk-toutiao.com^
