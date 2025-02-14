@@ -26,9 +26,6 @@
 ||xlog.jd.com^
 ||dsp-x.jd.com^
 ||open.e.kuaishou.com^
-||ad.tencent.com^
-||ad.weixin.qq.com^
-||adcdn.tencent.com^
 ! 通用广告域名补充[citation:1][citation:7]
 ||ad.toutiao.com^
 ||ad.bytedance.com^
@@ -64,11 +61,9 @@
 ||ad.v.qq.com^
 
 ! 微信推广链接
-||adclick.qq.com^
 ||adclick.gtimg.cn^
 
 ! 微信内置广告域名
-||ad.weixin.qq.com^
 ||ad.tencent.com^
 ||ad.qzone.qq.com^
       
@@ -87,7 +82,6 @@
 ||pangolin-sdk-toutiao.com^
 ||pangolin-sdk-toutiao-b.com^
 ||log-api.pangolin-sdk-toutiao.com^
-||ad.toutiao.com^
 ! 快手广告
 ||ad.kuaishou.com^
 ||open.e.kuaishou.com^
