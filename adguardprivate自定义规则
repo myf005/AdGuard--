@@ -263,4 +263,31 @@ copy
 0.0.0.0 ad.fanqienovel.com
 0.0.0.0 track.fanqie.com
 0.0.0.0 sdk.fanqie.com
+
+#抖音
+
+! 放行评论区图片容器
+tiktok.com##+js(remove-attr, style, div[class*="image-wrapper"])
+douyin.com##+js(remove-attr, style, div[class*="image-container"])
+
+! 放行特定图片元素
+@@||douyin.com##.image-content
+@@||douyin.com##img[src*="douyincdn.com"]
+
+! ===== 抖音核心图片域名 =====
+@@||p3-pc.douyincdn.com^     ! 评论区图片 CDN
+@@||p6-pc.douyincdn.com^
+@@||p9-pc.douyincdn.com^
+@@||p26.douyincdn.com^
+@@||p3.douyincdn.com^
+@@||p6.douyincdn.com^
+@@||p9.douyincdn.com^
+
+! ===== 通用图片资源域名 =====
+@@||s3m.bytedcdn.com^       ! 抖音静态资源
+@@||p1-tt.byteimg.com^      ! 动态加载图片
+@@||p3-tt.byteimg.com^
+@@||p6-tt.byteimg.com^
+@@||p9-tt.byteimg.com^
+
 #
