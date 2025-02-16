@@ -20,18 +20,7 @@
 @@||msg.cmpassport.com^$important
 @@||s.peplle.cn^$important
 
-! 拦截穿山甲、快手等广告 SDK 域名[citation:9]
-||log-api.pangolin-sdk-toutiao-b.com^
-||p1-lm.adkwai.com^
-||xlog.jd.com^
-||dsp-x.jd.com^
-||open.e.kuaishou.com^
-! 通用广告域名补充[citation:1][citation:7]
-||ad.toutiao.com^
-||ad.bytedance.com^
-||ads.douyin.com^
-||adx.toutiao.com^
-||tracking.mob.com^
+
 !动漫共和国（测试）
 @@||content-autofill.googleapis.com^$important
 @@||eo.jx.hzhcbkj.cn^$important
@@ -83,26 +72,37 @@
         
 ! ========== 第三方广告 SDK 域名 ==========
 ! 字节跳动（穿山甲广告）
+||ad.toutiao.com^
+||ad.bytedance.com^
 ||pangolin-sdk-toutiao.com^
 ||pangolin-sdk-toutiao-b.com^
 ||log-api.pangolin-sdk-toutiao.com^
+||log-api.pangolin-sdk-toutiao-b.com^
+||adx.toutiao.com^
+||api-access.pangolin-sdk-toutiao.com^ 
+
 ! 快手广告
+||p1-lm.adkwai.com^
 ||ad.kuaishou.com^
 ||open.e.kuaishou.com^
 ||adxlog.yse.yodocdn.com^
-||ads.douyin.com^    
+
 ! 抖音广告
+||ads.douyin.com^    
+
 ! 京东广告
+||xlog.jd.com^
 ||ad.360buyimg.com^
 ||dsp-x.jd.com^
 ||jdc.jd.com^
 ||adclick.jd.com^
-! 通用广告补充
-||tracking.mob.com^   
+
 ! MobTech广告
-||ad.xiaomi.com^      
+||tracking.mob.com^   
+      
 ! 小米广告
-||api-access.pangolin-sdk-toutiao.com^      
+||ad.xiaomi.com^
+     
 ! 放行微信图片资源
 @@||wx.qlogo.cn^
 @@||mmbiz.qpic.cn^
@@ -296,4 +296,21 @@ douyin.com##+js(remove-attr, style, div[class*="image-container"])
 @@||p6-tt.byteimg.com^
 @@||p9-tt.byteimg.com^
 
-#
+#233乐园
+
+! ===== 233乐园自有广告域名 ===== [citation:2][citation:8]
+
+! 主广告域名
+||ad.233.com^   
+
+! 用户行为追踪域名          
+||tracking.233.com^      
+
+! 广告资源加载域名 
+||cdn-ad.233.com^         
+
+ ! 放行静态资源
+@@||static.233.com^       
+
+! 放行核心接口
+@@||api.233.com^           
