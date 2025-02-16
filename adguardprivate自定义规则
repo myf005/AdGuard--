@@ -75,6 +75,9 @@
 !微信网页元素放行
 @@||res.wx.qq.com
 
+!微信零钱通明细放行
+@@||apd-pcdnwxnat.teg.tencent-cloud.net
+
 
         
 ! ========== 第三方广告 SDK 域名 ==========
