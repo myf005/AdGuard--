@@ -1,0 +1,37 @@
+! 拦截主域名及所有 CNAME 别名
+||api-access.pangolin-sdk-toutiao.com^
+||byted.com^
+||w.cdngslb.com^
+||queniuyk.com^
+@@||ipv6-sh.itop.qq.com^$client='10.42.1.0'
+@@||jsonatm.broker.tplay.qq.com^$client='10.42.1.0'
+@@||jk.broker.tplay.qq.com^$client='10.42.1.0'
+@@||down.pandora.qq.com^$client='10.42.1.0'
+@@||lockstep-jk-normal-set27.gcloud.qq.com^$client='10.42.1.0'
+@@||lockstep-jk-normal-set24.gcloud.qq.com^$client='10.42.3.0'
+@@||queuesdk-sh.gcloud.qq.com^$client='10.42.3.0'
+@@||down.pandora.qq.com^$client='10.42.3.0'
+@@||jk.broker.tplay.qq.com^$client='10.42.3.0'
+@@||jsonatm.broker.tplay.qq.com^$client='10.42.3.0'
+!金铲铲
+@@||lockstep-jk-normal-set18.gcloud.qq.com^$client='10.42.3.0'
+@@||lockstep-jk-normal-set29.gcloud.qq.com^$client='10.42.3.0'
+@@||lockstep-jk-normal-set29.gcloud.qq.com^$important
+@@||lockstep-jk-normal-set16.gcloud.qq.com^$important
+@@||lockstep-jk-normal-set28.gcloud.qq.com^$important
+!联通
+@@||smartad.10010.com^$important
+@@||m.client.10010.com^$important
+@@||u.10010.cn^$important
+! 抖音直播
+@@||live.douyin.com^$important
+@@||static.imgcook.com^$important
+!阿里云盘
+@@||pages.aliyundrive.com^$important
+!动漫共和国
+@@||p4-ad.adukwai.com^$important
+@@||p2-ad.adukwai.com^$important
+@@||p5-ad.adukwai.com^$important
+@@||dc.sigmob.cn^$important
+!讯飞输入法小米版
+@@||imeclient.openspeech.cn^$important
