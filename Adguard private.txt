@@ -35,3 +35,5 @@
 @@||dc.sigmob.cn^$important
 !讯飞输入法小米版
 @@||imeclient.openspeech.cn^$important
+!中国电信app
+@@||im64.jpush.cn^$important
